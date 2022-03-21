@@ -1,0 +1,33 @@
+*.se{
+    border: 5px solid black;
+    width:440px;
+    margin:200px  500px;
+    background-color:aliceblue;
+    
+    
+} 
+.fn,.da,.pa{
+display: flex;
+padding: 5px;
+margin: 3px;
+justify-content: space-between;
+
+}
+.ch,.div-fname,.div-lname{
+    padding: 3px;
+}
+
+.register-button{
+    padding: 5px;
+    background-color: blue;
+    margin-left: 5px;
+    margin-bottom: 5px;
+
+
+}
+.reset-button{
+    padding: 5px;
+    background-color: grey;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}

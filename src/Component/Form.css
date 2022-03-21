@@ -1,0 +1,25 @@
+.form{
+    background-color: aquamarine;
+    border: 5px solid black;
+    width:960%;
+    margin: auto;
+}
+.da{
+display: flex;
+justify-content: space-around;
+}
+.pa{
+display: flex;
+justify-content: space-around;
+}
+.ch{
+display: flex;
+justify-content: space-around;
+}
+.hy{
+display: flex;
+}
+.fn{
+    display: flex;
+    justify-content: space-around;
+}
